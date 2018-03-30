@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">快速开发</string>
+
+
+    <string name="tab_first">首页</string>
+    <string name="tab_order">订单</string>
+    <string name="tab_goods">商品</string>
+    <string name="tab_account">账户</string>
+</resources>
